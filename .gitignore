@@ -221,3 +221,12 @@ __marimo__/
 
 # Datasets
 data/raw/
+
+
+# Datathon datasets
+data/raw/
+car_data/**/*.csv
+car_data/*.csv
+
+# Jupyter temporary files
+.ipynb_checkpoints/
